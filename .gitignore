@@ -1,0 +1,27 @@
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Dataset besar
+DATASET_BASELINE_NLP.csv
+dataset_berita.csv
+
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Progress scraping
+*_PROGRESS.csv
